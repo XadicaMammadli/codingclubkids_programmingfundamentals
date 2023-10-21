@@ -1,0 +1,1 @@
+print('first Xadija prjct')
